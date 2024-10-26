@@ -132,16 +132,16 @@ body.loaded {
   top: 0;
   width: 100vw;
   height: 110vh;
-  fill: #050709;
+  fill: white;
 }
 
 .preloader .preloader-heading .load-text {
   font-size: 20px;
-  font-weight: 200;
+  font-weight: bold;
   letter-spacing: 15px;
   text-transform: uppercase;
   z-index: 20;
-  color: #9ca3af;
+  color: #fe6e58;
 }
 
 .load-text span {
