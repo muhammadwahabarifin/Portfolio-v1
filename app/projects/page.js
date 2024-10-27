@@ -43,11 +43,11 @@ const projectData = [
     github: "/",
   },
   {
-    image: "/work/4.png",
+    image: "/work/7.png",
     category: "react js",
-    name: "Ignite Website",
+    name: "Analysis Tools",
     description:
-      "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam",
+      "A suite of analytical tools for developers with Astro.js, React.js, Tailwind CSS",
     link: "/",
     github: "/",
   },
@@ -61,9 +61,9 @@ const projectData = [
     github: "/",
   },
   {
-    image: "/work/4.png",
+    image: "/work/5.png",
     category: "next js",
-    name: "Envision Website",
+    name: "Astra Agency",
     description:
       "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam",
     link: "/",

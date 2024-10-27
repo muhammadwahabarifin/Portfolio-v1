@@ -37,18 +37,18 @@ const projectData = [
   {
     image: "/work/5.png",
     category: "NextJs",
-    name: "LMS-Platform",
+    name: "Astra Agency",
     description:
-      "A Course Selling and LMS Platform built with Nextjs, Tailwind CSS, TypeScript, Prisma and PostgreSQL.",
+      "Build ideas and submit your dream site with Next.js, Tailwind CSS, Shadcn UI, Typescript",
     link: "/https://lms-platform-liard.vercel.app/",
     github: "/https://github.com/premvarma2002/lms-platform",
   },
   {
     image: "/work/6.png",
     category: "NextJS",
-    name: "Notion Clone",
+    name: "Website Animation",
     description:
-      "Notion clone powered by TypeScript, Tailwind CSS, and Next.js on the frontend.",
+      "Engaging developer, built on NextJS, GSAP, Tailwind, and React",
     link: "/https://note-taking-app-nu-coral.vercel.app/",
     github: "/https://github.com/premvarma2002/notion-clone",
   },
