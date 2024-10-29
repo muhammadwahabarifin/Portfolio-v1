@@ -8,9 +8,25 @@ import {
     RiYoutubeFill,
 } from "react-icons/ri";
 
-import Link from "next/link";
+// import Link from "next/link";
+import { motion } from "framer-motion";
 
 // icons for the current user and the current user's profile
+
+const sectionVariants = {
+    hidden: { opacity: 0 },
+    show: {
+        opacity: 1,
+        transition: {
+            staggerChildren: 0.25
+        }
+    }
+}
+
+const sectionListVariants = {
+    hidden: { opacity: 0 },
+    show: { opacity: 1 }
+}
 
 const icons = [
     {
@@ -37,15 +53,24 @@ const icons = [
 
 const Socials = ({ containerStyles, iconsStyles }) => {
     return (
-        <div className={`${containerStyles}`}>
+        <motion.div
+            className={`${containerStyles}`}
+            variants={sectionVariants}
+            initial='hidden'
+            animate='show'
+        >
             {icons.map((icon, index) => {
                 return (
-                    <Link href={icon.path} key={index}>
+                    <motion.div
+                        href={icon.path}
+                        key={index}
+                        variants={sectionListVariants}
+                    >
                         <div className={`${iconsStyles}`}>{icon.name}</div>
-                    </Link>
+                    </motion.div>
                 );
             })}
-        </div>
+        </motion.div>
     );
 };
 
