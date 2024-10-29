@@ -34,7 +34,7 @@ body::-webkit-scrollbar {
     }
 
     .dark {
-      --background: 237 22% 28%;
+      --background: 229 84% 5%;
       --foreground: 60 9.1% 97.8%;
       --card: 240 19% 16%;
       --card-foreground: 300 0% 100%;

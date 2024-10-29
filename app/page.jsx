@@ -9,7 +9,6 @@ import Work from "@/components/Work";
 export default function Home() {
   return (
     <>
-      <main>
       {/* <Loader /> */}
         <Hero />
         <About />
@@ -17,7 +16,6 @@ export default function Home() {
         <Work />
         <Reviews />
         <Cta />
-      </main>
     </>
   );
 }
