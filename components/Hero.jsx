@@ -31,7 +31,7 @@ const Hero = () => {
                             damping={1e-1}
                             triggerOnce={true}
                         >
-                            <div className="text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]">
+                            <div className="text-sm capitalize font-semibold mb-4 text-primary tracking-[4px]">
                                 Frontend Developer
                             </div>
                         </Fade>
@@ -42,8 +42,10 @@ const Hero = () => {
                             damping={1e-1}
                             triggerOnce={true}
                         >
-                            <h1 className="h1 mb-4">Hello , My Name Is
-                                <span className="italic bg-gradient-to-r from-primary to-orange-200 bg-clip-text text-transparent">WahabArf_</span>
+                            <h1 className="h1 mb-4">Hello, My Name Is <br />
+                                <span className="italic bg-gradient-to-r from-primary to-orange-200 bg-clip-text text-transparent">
+                                    WahabArf_
+                                </span>
                             </h1>
                         </Fade>
                         <Fade
@@ -85,7 +87,7 @@ const Hero = () => {
                                 </Fade>
                             </a>
                         </div>
-                        
+
                         {/* socials  */}
                         <Socials
                             containerStyles="flex gap-x-6 m-auto xl:mx-0"
