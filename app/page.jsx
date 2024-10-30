@@ -1,5 +1,4 @@
 import About from "@/components/About";
-import BackToTop from "@/components/BackToTop";
 import Cta from "@/components/Cta";
 import Hero from "@/components/Hero";
 import Reviews from "@/components/Reviews";
@@ -16,7 +15,6 @@ export default function page() {
      <Work />
      <Reviews />
      <Cta />
-     <BackToTop />
     </main>
     </>
   )
