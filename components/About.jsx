@@ -158,7 +158,7 @@ const About = () => {
         <section className="xl:h-[860px] pb-12 pt-1 xl:py-24">
             <div className="container mx-auto">
                 <Slide direction={'up'} delay={200} cascade damping={1e-1} triggerOnce={true}>
-                    <h2 className="section-title mb-8 xl:mb-16 text-center mx-auto pt-2 bg-gradient-to-r from-orange-600 to-orange-200 bg-clip-text text-transparent">
+                    <h2 className="section-title italic mb-8 xl:mb-16 text-center mx-auto pt-2 bg-gradient-to-r from-primary to-orange-200 bg-clip-text text-transparent">
                         About Me
                     </h2>
                 </Slide>

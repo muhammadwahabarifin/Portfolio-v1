@@ -25,7 +25,7 @@ const Nav = ({ containerStyles, linkStyles, underlineStyles ,closeSheet}) => {
           <Link onClick={handleClick}
             href={link.path}
             key={index}
-            className={`capitalize ${linkStyles}`}
+            className={`capitalize hover:text-primary ${linkStyles}`}
           >
             {link.path === path && (
               <motion.span

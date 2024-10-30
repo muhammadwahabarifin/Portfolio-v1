@@ -91,7 +91,7 @@ const Work = () => {
         {/* text  */}
         <div className="max-w-[400px] mx-auto xl:mx-0 text-center xl:text-left mb-12 xl:h-[400px] flex flex-col justify-center items-center xl:items-start ">
           <Slide direction={'up'} delay={600} cascade damping={1e-1} triggerOnce={true}>
-            <h2 className="section-title mb-4 bg-gradient-to-r from-orange-600 to-orange-200 bg-clip-text text-transparent">
+            <h2 className="section-title mb-4 italic bg-gradient-to-r from-primary to-orange-200 bg-clip-text text-transparent">
               My Latest Projects
             </h2>
           </Slide>

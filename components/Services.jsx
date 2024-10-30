@@ -38,7 +38,7 @@ const Services = () => {
         <section className='mb-12 xl:mb-36'>
             <div className='container mx-auto'>
                 <Slide direction={'up'} delay={200} cascade damping={1e-1} triggerOnce={true}>
-                    <h2 className='section-title mb-12 xl:mb-24 text-center mx-auto bg-gradient-to-r from-orange-600 to-orange-200 bg-clip-text text-transparent'>
+                    <h2 className='section-title mb-12 xl:mb-24 text-center mx-auto italic bg-gradient-to-r from-primary to-orange-200 bg-clip-text text-transparent'>
                         My Services
                     </h2>
                     
