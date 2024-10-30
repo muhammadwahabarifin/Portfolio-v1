@@ -6,7 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Loader from "@/components/Loader";
 // ThemeProvider
-import { ThemeProvider } from "@/components/ThemeProvider";
+import { ThemeProvider } from "@/context/ThemeProvider";
 
 const outfit = Outfit({ subsets: ["latin"] });
 
