@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-import ThemeToggler from "@/context/ThemeToggler";
+import ThemeToggler from "@/components/ThemeToggler";
 import Logo from "./Header/Logo";
 import Nav from "./Header/Nav";
 import MobileNav from "./Header/MobileNav";

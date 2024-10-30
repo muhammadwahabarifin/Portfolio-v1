@@ -1,6 +1,6 @@
 import Socials from "./Header/Socials";
 
-const footer = () => {
+const Footer = () => {
   return (
     <footer className="border-t py-10">
       <div className="container mx-auto">
@@ -19,4 +19,4 @@ const footer = () => {
     </footer>
   );
 };
-export default footer;
+export default Footer;
