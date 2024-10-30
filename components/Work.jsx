@@ -42,14 +42,14 @@ const projectData = [
     category: "NextJs",
     name: "Astra Agency",
     description:
-      "Build ideas and submit your dream site with Next.js, Tailwind CSS, Shadcn UI, Typescript",
+      "Build your dream website idea with Next.js, Tailwind CSS, Typescript",
     link: "/https://lms-platform-liard.vercel.app/",
     github: "/https://github.com/premvarma2002/lms-platform",
   },
   {
     image: "/work/6.png",
     category: "NextJS",
-    name: "Website Animation",
+    name: "Web Animation",
     description:
       "Engaging developer, built on NextJS, GSAP, Tailwind, and React",
     link: "/https://note-taking-app-nu-coral.vercel.app/",

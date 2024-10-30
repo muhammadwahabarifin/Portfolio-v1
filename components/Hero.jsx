@@ -56,7 +56,7 @@ const Hero = () => {
                             triggerOnce={true}>
                             <p className="subtitle max-w-[490] mx-auto xl:mx-0">
                                 Brief description with insights into myself, my vocational
-                                journey, and what I engage in professionally.
+                                journey, and what I engage in consistent.
                             </p>
                         </Fade>
                         {/* buttons  */}
