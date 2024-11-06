@@ -13,8 +13,8 @@ const projectData = [
     name: "Amazon clone",
     description:
       "Amazon Clone made with react , tailwind, javascript and redux",
-    link: "https://amazon-clone-ten-lemon.vercel.app/",
-    github: "https://github.com/premvarma2002/amazon-clone",
+    link: "/",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/1.png",
@@ -22,8 +22,8 @@ const projectData = [
     name: "Homeland ",
     description:
       "A real estate rental website made with react, tailwind & javascript.",
-    link: "https://beautiful-homeland.netlify.app/",
-    github: "https://github.com/premvarma2002/Real-Estate",
+    link: "/",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/2.png",
@@ -32,7 +32,7 @@ const projectData = [
     description:
       "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam",
     link: "/",
-    github: "/",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/2.png",
@@ -49,8 +49,8 @@ const projectData = [
     name: "Analysis Tools",
     description:
       "A suite of analytical tools for developers with Astro.js, React.js, Tailwind CSS",
-    link: "/",
-    github: "/",
+    link: "https://astro-js-nine.vercel.app/",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/4.png",
@@ -67,8 +67,8 @@ const projectData = [
     name: "Astra Agency",
     description:
       "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam",
-    link: "/",
-    github: "/",
+    link: "https://astra-roan.vercel.app/",
+    github: "https://github.com/muhammadwahabarifin",
   },
 ];
 
