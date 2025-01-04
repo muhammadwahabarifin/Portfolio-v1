@@ -51,9 +51,8 @@ const Contact = () => {
           </div>
 
           {/* illustration  */}
-          
+
           <div className="hidden xl:flex w-full bg-contact_illustration_light dark:bg-contact_illustration_dark bg-contain bg-top bg-no-repeat"></div>
-        
         </div>
 
         {/* info text & form  */}
@@ -98,7 +97,7 @@ const Contact = () => {
             >
               <div className="flex items-center gap-x-8">
                 <PhoneCall size={18} className="text-primary" />
-                <div>+62 895 064 07921</div>
+                <div>+62 878 805 41005</div>
               </div>
             </Fade>
           </div>

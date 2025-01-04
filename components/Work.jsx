@@ -26,7 +26,7 @@ const projectData = [
     description:
       "A real estate rental website made with react, tailwind & javascript.",
     link: "https://beautiful-homeland.netlify.app/",
-    github: "https://github.com/premvarma2002/Real-Estate",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/3.png",
@@ -35,7 +35,7 @@ const projectData = [
     description:
       "Amazon Clone made with react , tailwind, javascript and redux",
     link: "https://amazon-clone-ten-lemon.vercel.app/",
-    github: "https://github.com/premvarma2002/amazon-clone",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/5.png",
@@ -44,7 +44,7 @@ const projectData = [
     description:
       "Build your dream website idea with Next.js, Tailwind CSS, Typescript",
     link: "/https://lms-platform-liard.vercel.app/",
-    github: "/https://github.com/premvarma2002/lms-platform",
+    github: "/https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/6.png",
@@ -53,7 +53,7 @@ const projectData = [
     description:
       "Engaging developer, built on NextJS, GSAP, Tailwind, and React",
     link: "/https://note-taking-app-nu-coral.vercel.app/",
-    github: "/https://github.com/premvarma2002/notion-clone",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/4.png",
@@ -62,7 +62,7 @@ const projectData = [
     description:
       "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam dolore",
     link: "/",
-    github: "/",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/4.png",
@@ -71,7 +71,7 @@ const projectData = [
     description:
       "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam",
     link: "/",
-    github: "/",
+    github: "https://github.com/muhammadwahabarifin",
   },
   {
     image: "/work/4.png",
@@ -80,7 +80,7 @@ const projectData = [
     description:
       "Lorem ipsum, dolor sit amet consectetur a necessitatibus eveniet est tenetur quisquam dolore",
     link: "/",
-    github: "/",
+    github: "https://github.com/muhammadwahabarifin",
   },
 ];
 

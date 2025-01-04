@@ -24,10 +24,6 @@ const infoData = [
         text: "WahabArf",
     },
     {
-        icon: <PhoneCall size={20} />,
-        text: "+62 89 506 407 921",
-    },
-    {
         icon: <MailIcon size={20} />,
         text: "wahabarf@gmail.com",
     },
